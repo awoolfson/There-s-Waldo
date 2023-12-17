@@ -1,16 +1,9 @@
-//
-//  ViewController.swift
-//  Roboflow Starter Project
-//
-//  Created by Nicholas Arner on 9/11/22.
-//
-
 import UIKit
 import AVFoundation
 import Vision
 import Roboflow
 
-var API_KEY = "3S78rMKsITa0tAwKKL8s"
+var API_KEY = "z59RhvtoCJqpEHljhlPf"
 
 class ViewController: UIViewController, AVCaptureVideoDataOutputSampleBufferDelegate {
     
@@ -36,7 +29,7 @@ class ViewController: UIViewController, AVCaptureVideoDataOutputSampleBufferDele
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        loadRoboflowModelWith(model: "roboflow-mask-wearing-ios", version: 15 , threshold: 0.1, overlap: 0.2, maxObjects: 100.0)
+        loadRoboflowModelWith(model: "theres-waldo", version: 3 , threshold: 0.1, overlap: 0.2, maxObjects: 2.0)
         checkCameraAuthorization()
     }
     

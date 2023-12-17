@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Roboflow Starter Project
-//
-//  Created by Nicholas Arner on 9/11/22.
-//
-
 import UIKit
 
 @main

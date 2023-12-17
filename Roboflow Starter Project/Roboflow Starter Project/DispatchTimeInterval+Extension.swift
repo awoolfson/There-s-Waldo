@@ -1,10 +1,3 @@
-//
-//  DispatchTimeInterval+Extension.swift
-//  Roboflow Starter Project
-//
-//  Created by Nicholas Arner on 9/12/22.
-//
-
 import Foundation
 
 //Converts a DispatchTimeInterval to a Double

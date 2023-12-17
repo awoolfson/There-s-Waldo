@@ -1,10 +1,3 @@
-//
-//  Roboflow_Starter_ProjectTests.swift
-//  Roboflow Starter ProjectTests
-//
-//  Created by Nicholas Arner on 9/11/22.
-//
-
 import XCTest
 @testable import Roboflow_Starter_Project
 

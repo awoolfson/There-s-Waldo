@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Roboflow Starter Project.xcodeproj">
+      location = "group:/Users/awoolfson/awoolfson-root/coursework/ci/roboflow-ios-starter/Roboflow Starter Project/Theres-Waldo.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">

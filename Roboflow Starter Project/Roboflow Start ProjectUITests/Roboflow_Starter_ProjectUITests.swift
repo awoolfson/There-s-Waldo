@@ -1,10 +1,3 @@
-//
-//  Roboflow_Starter_ProjectUITests.swift
-//  Roboflow Starter ProjectUITests
-//
-//  Created by Nicholas Arner on 9/11/22.
-//
-
 import XCTest
 
 class Roboflow_Starter_ProjectUITests: XCTestCase {
